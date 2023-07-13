@@ -1,0 +1,34 @@
+#Google big query : 
+-BigQuery is Google enterprise cloud data 
+warehouse.
+-BigQuery is serverless, highly scalable,
+and cost effective cloud data warehouse.
+-It allows for super-fast queries at 
+petabyte scale using the processing power
+of Google's infrastructure.
+-Similar products Azure Synapse Analytics,
+Snowflake etc 
+
+#Google BigQuery is a fully-managed, 
+serverless data warehousing and analytics 
+platform provided by Google Cloud. It is 
+designed to handle and analyze large-scale
+datasets quickly and efficiently. BigQuery
+is a powerful tool for processing and
+querying massive amounts of structured, 
+semi-structured, and unstructured data. 
+
+# Features : 
+1)Serverless Architecture:
+2)Columnar Storage: 
+3)Distributed Processing
+4)SQL-Based Query Language
+5)Real-Time Streaming:
+6)Data Security
+7)Integration with Google Cloud Ecosystem
+8)Advanced Analytics
+9)Cost Optimization
+
+
+#Code :
+SELECT FROM SXQery-public-data.covidto pen data.cocigli.com_data"|LIMIT:100
