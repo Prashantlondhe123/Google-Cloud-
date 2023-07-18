@@ -31,4 +31,15 @@ semi-structured, and unstructured data.
 
 
 #Code :
-SELECT FROM SXQery-public-data.covidto pen data.cocigli.com_data"|LIMIT:100
+SELECT FROM SXQery-public-data.covidto pen data.cocigli.com_data" LIMIT:100
+
+# Steps for Google big query: 
+step1 : Create a Project 
+step2: create a datasets 
+Step3: Create a Table 
+Step 4: we can create table from Google cloud storage , upload , S3 bucket , ADLS , 
+
+# we can also create table using SQL :
+create table dbname.t_name ( id int, fname varchar(200)) 
+
+# 
