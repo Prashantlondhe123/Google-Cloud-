@@ -42,4 +42,25 @@ Step 4: we can create table from Google cloud storage , upload , S3 bucket , ADL
 # we can also create table using SQL :
 create table dbname.t_name ( id int, fname varchar(200)) 
 
-# 
+#  Save Query : 
+type : 1) personal 
+2) Project 
+3) Public 
+
+# Schedule Query :
+1) Detail Schedule 
+2) Schedule Options 
+3) Destination for query result 
+
+# save results :
+we can save file as 
+1) Csv-google drive 
+2)json - google drive 
+3)big query table googel sheet 
+
+# Explore Data : 
+We can visualize data.
+
+#
+
+
