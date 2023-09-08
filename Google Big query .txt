@@ -61,6 +61,11 @@ we can save file as
 # Explore Data : 
 We can visualize data.
 
+# Code : 
+# how to select first 10 rows 
+select * from able.starlight-279013.databasebame.tablename 
+limit 10
+
 #
 
 
